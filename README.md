@@ -23,7 +23,7 @@ git clone https://github.com/Pushpamk/materialui-component-sublime-autocomplete.
 OR 
 
 
-Download and paste in Installed Packages from [release](https://material-ui.com/) 
+Download and paste in Installed Packages from [release](https://github.com/Pushpamk/materialui-component-sublime-autocomplete/releases/tag/0.1.0) 
 
 ### Usage
 
