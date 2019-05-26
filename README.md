@@ -20,6 +20,11 @@ You can clone this repository to the Packages directory of your Sublime installa
 git clone https://github.com/Pushpamk/materialui-component-sublime-autocomplete.git
 ```
 
+OR 
+
+
+Download and paste in Installed Packages from release. 
+
 ### Usage
 
 **Props name autocompletion**: When inside double quotes of a class attribute (`class="[HERE]"`), suggestions will appear for all `uk-` classes.
